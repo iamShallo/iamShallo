@@ -1,7 +1,7 @@
 ###
 
 <h1 align="center">
- Hi, I'm Francesco — IT teacher and Bachelor's graduate in Digital Communication, currently pursuing a Master's degree in Computer Science.
+Hi, I'm Francesco — an IT and Telecommunications teacher with a degree in Digital Communication, currently pursuing a Master's in Computer Science.
 </h1>
 
 ###
