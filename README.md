@@ -60,7 +60,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamShallo&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamShallo&layout=compact&theme=default&hide_border=true&title_color=3B82F6" alt="Top Languages" height="195"/>
 </div>
 
 <br>
