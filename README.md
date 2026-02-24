@@ -8,6 +8,21 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/francescocaldarelli">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/francescocaldarelli_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.twitch.tv/shallo28">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  </a>
+  <a href="https://steamcommunity.com/id/Shallo28">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+</div>
+
 ---
 
 <h2 align="center">📝 About me</h2>
@@ -20,10 +35,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamShallo&color=3B82F6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
 
 <h2 align="center">🧑🏼‍💻 I code with <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
@@ -38,6 +49,12 @@
 <h2 align="center">📊 GitHub Stats & Streaks</h2>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamShallo&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&count_private=true" alt="GitHub Stats" height="195"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamShallo&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="195"/>
 </div>
 
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamShallo&color=3B82F6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
