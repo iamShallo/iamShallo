@@ -45,7 +45,6 @@ Hi, I'm Francesco — an IT and Telecommunications teacher with a degree in Digi
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=iamShallo)](https://git.io/streak-stats)
   <h2>🚀 Github Commits</h2>
   <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
 </div>
