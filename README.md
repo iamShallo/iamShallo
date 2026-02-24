@@ -46,11 +46,17 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Streaks</h2>
+<h2 align="center">🏆 GitHub Trophies & Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iamShallo&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamShallo&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&count_private=true" alt="GitHub Stats" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamShallo&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamShallo&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamShallo&layout=compact&theme=default&hide_border=true&title_color=3B82F6" alt="Top Languages" height="195"/>
 </div>
 
 <br>
