@@ -34,8 +34,8 @@
 <h2 align="center">📊 GitHub Stats & Streaks</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="GitHub Stats" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IL_TUO_USERNAME&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamShallo&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamShallo&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="195"/>
 </div>
 
 ---
@@ -44,8 +44,8 @@
   <h2>🚀 GitHub Commits Snake</h2>
   <p>A snake consuming my contributions graph!</p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IL_TUO_USERNAME/IL_TUO_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IL_TUO_USERNAME/IL_TUO_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IL_TUO_USERNAME/IL_TUO_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamShallo/iamShallo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamShallo/iamShallo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamShallo/iamShallo/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
