@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&color=000000&center=true&vCenter=true&width=800&height=115&multiline=true&repeat=false&duration=1200&pause=250&lines=IT+%26+Telecommunications+Teacher;Digital+Communication+Graduate;Computer+Science+Master's+Student;Passionate+about+Education+%26+Code" alt="Typing SVG" />
   </a>
 </p>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/francescocaldarelli">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,6 +20,9 @@
   </a>
   <a href="https://steamcommunity.com/id/Shallo28">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+  <a href="INSERISCI_QUI_IL_TUO_LINK_PROFILO_SPOTIFY">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </div>
 
@@ -35,7 +39,11 @@
 
 ---
 
-<h2 align="center">🧑🏼‍💻 I code with <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30">
+  I code with
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30">
+</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -45,10 +53,16 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Streaks</h2>
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamShallo&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="195"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iamShallo/iamShallo/iso_calendar/isometric-calendar.svg" alt="Isometric Contribution Calendar" width="800px">
 </div>
 
 <br>
