@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,c,html,illustrator,ps,php,unreal&theme=dark" alt="Francesco's Skills" />
+    <img src="https://skillicons.dev/icons?i=js,java,c,html,php,unreal&theme=dark" alt="Francesco's Skills" />
   </a>
 </p>
 
