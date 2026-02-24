@@ -21,6 +21,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamShallo&color=3B82F6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 <h2 align="center">🧑🏼‍💻 I code with <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <p align="center">
@@ -37,14 +41,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamShallo&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="195"/>
 </div>
 
----
-
-<div align="center">
-  <h2>🚀 GitHub Commits Snake</h2>
-  <p>A snake consuming my contributions graph!</p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamShallo/iamShallo/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamShallo/iamShallo/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamShallo/iamShallo/output/dist/github-contribution-grid-snake.svg">
-  </picture>
-</div>
