@@ -61,12 +61,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iamShallo/iamShallo/iso_calendar/isometric-calendar.svg" alt="Isometric Contribution Calendar" width="800px">
-</div>
-
-<br>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamShallo&color=3B82F6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
