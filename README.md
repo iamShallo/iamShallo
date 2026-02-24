@@ -21,9 +21,6 @@
   <a href="https://steamcommunity.com/id/Shallo28">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
-  <a href="INSERISCI_QUI_IL_TUO_LINK_PROFILO_SPOTIFY">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
 </div>
 
 ---
@@ -58,6 +55,16 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamShallo&theme=default&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="195"/>
 </div>
+
+---
+
+<h2 align="center">🎧 Now Playing</h2>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31zf7fnzamwsxx2dm4ppbcxlp73a?si=362f010fe480435d">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 <br>
 
