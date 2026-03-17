@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,c,html,php,unreal&theme=dark" alt="Francesco's Skills" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,react,java,c,php,docker,unreal&theme=dark" alt="Francesco's Skills" />
   </a>
 </p>
 
